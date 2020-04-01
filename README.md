@@ -1,5 +1,6 @@
 # Bank-Fraud-Detection
-My attempt at detecting fraud in the **Credit Card Fraud** dataset available at:
+My attempt at detecting fraudulent transactions in the **Credit Card Fraud** dataset available at:
+
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 Results can be seen at the bottom of fraud_detection.ipynb notebook.
 
